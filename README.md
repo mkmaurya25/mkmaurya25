@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mkmaurya25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkmaurya25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### Projects
+![Machine Learning Projects](https://github.com/mkmaurya25/Machine-Learning/tree/main)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
